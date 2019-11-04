@@ -71,6 +71,21 @@
             android:layout_height="wrap_content"
             />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Change music forward and backword"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            android:textSize="20dp"
+            />
+
+        <SeekBar
+            android:id="@+id/musicseekbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
     </LinearLayout>
 
 </RelativeLayout>

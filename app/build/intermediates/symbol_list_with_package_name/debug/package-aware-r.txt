@@ -783,6 +783,7 @@ id list_item
 id message
 id middle
 id multiply
+id musicseekbar
 id never
 id none
 id normal
